@@ -36,3 +36,9 @@ Is a computer networking utility for reading from and writing to network connect
 `procfs`
 
 The  proc  filesystem  is  a  pseudo-filesystem  which provides an interface to kernel data structures.
+
+Websites:
+
+http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html
+
+http://www.brendangregg.com/bpf-performance-tools-book.html
