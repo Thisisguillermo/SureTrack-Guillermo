@@ -31,6 +31,9 @@ Port Scanning Attack Detection (https://www.digitalocean.com/community/tutorials
 
 Jumphost (https://www.madboa.com/blog/2017/11/02/ssh-proxyjump/) (https://www.tecmint.com/access-linux-server-using-a-jump-host/amp/) (https://www.techrepublic.com/article/how-to-use-ssh-to-proxy-through-a-linux-jump-host/) (https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Proxies_and_Jump_Hosts)
 
+Greynoise filter https://greynoise.io/about
+Mass scanners (such as Shodan and Censys), search engines, bots, worms, and crawlers generate logs and events omnidirectionally on every IP address in the IPv4 space. GreyNoise gives you the ability to filter this useless noise out.
+
 
 
 For extra security https://www.cyberciti.biz/tips/linux-security.html
