@@ -1,0 +1,8 @@
+# RHEL Software
+
+https://access.redhat.com/products
+
+ - oVirt Hypervisor level 1
+ - CloudForms managing Openstack, Vmware, RHEV, Openshift and public cloud like: AWS, AZURE, orchestrated with ansible
+ - Ansible
+ - RHEL Satelite is an infrastructure management product specifically designed to keep Red Hat Enterprise Linux® environments and other Red Hat infrastructure running efficiently, with security, and compliant with various standards.
