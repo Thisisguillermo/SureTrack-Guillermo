@@ -2,11 +2,22 @@
 
 ### Warning
 
-Perhaps unrelated, but you only need to update your DS/Boot images after you make a change to the drivers included in PE or bootstrap.ini
+**You only need to update your DS/Boot images after you make a change to the drivers included in PE or bootstrap.ini**
 
-No taskt sequences changes or customsettings changes require the DS to be updated.
+**No taskt sequences changes or customsettings changes require the DS to be updated.**
+
 
 ---
+
+---
+
+
+What is required to automate Lite Touch deployments. 
+
+https://scriptimus.wordpress.com/2013/02/18/lti-deployments-skipping-deployment-wizard-panes/
+
+---
+
 
 Microsoft Deployment Toolkit documentation
 
