@@ -37,6 +37,11 @@ Is a computer networking utility for reading from and writing to network connect
 
 The  proc  filesystem  is  a  pseudo-filesystem  which provides an interface to kernel data structures.
 
+`strace`
+
+A Linux command that can help you with error analysis. By default it will output every syscall a process does.
+There is no tool that "drills down" deeper on this analysis than strace. By this it is comparable to.
+
 ---
 
 ## Websites:
