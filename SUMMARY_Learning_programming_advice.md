@@ -49,3 +49,6 @@ There's no need to reinvent the wheel everytime you do something.
 
 Try python first it's a lil bit easy to program in it
 It's more beginner friendly
+
+
+This too: https://www.khanacademy.org/computing/computer-science
