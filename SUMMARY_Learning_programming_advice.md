@@ -54,3 +54,57 @@ It's more beginner friendly
 This too: https://www.khanacademy.org/computing/computer-science
 
 If you want to eventually work with nodejs, my advice would be to stick to chrome/chromium because you are likely going to run into information about the internals, which is how V8 operates. And then you can apply that knowledge in the browser as well as with Nodejs
+
+---
+
+https://www.youtube.com/watch?v=WgsdpJSyqc0&list=WL&index=4&t=0s
+
+https://www.reddit.com/r/learnprogramming/comments/fx884k/read_practice_tutorials_think_i_understand_get_to/
+
+https://news.ycombinator.com/item?id=22960225
+
+https://www.reddit.com/r/learnpython/comments/ggd2lz/noob_rant_am_i_really_supposed_to_just_know_how/
+
+---
+
+Part of learning to program is learning how to think and learning how to solve problems. Don't concentrate just on learning a language.
+
+I say this because I'm only just past the tictactoe lab at 38 years old with no prior programming.
+
+So... Take it step by step.
+
+How could we, at that module, represent a 3x3 grid numbered 1 to 9? We could have individual variables for each box. We could have a list 1-9 (or 0-9 in python parlance) We could a list of 3 numbers representing rows and each entry in the list could have a list of 3 numbers. 3*3=9.
+
+It doesn't really matter which you choose, but some are more elegant and some use fewer lines of code or fewer variable names to remember, which could be a factor if your program ends up being bigger.
+
+Okay, so now we need to think how to talk to each box. Either variable name or an index like board[1][2]
+
+Then we tackle hoe to check what a box currently contains, and how to change what a box contains depending on an action. So if board[1][2] == "X": user_input().
+
+Then we figure out to allow a player to choose their turn, check that it's a valid input, check that that box is available, and check it that move results in a win, loss or draw.
+
+Then we figure out how to make the computer take a turn. I used a random integer generator (Google), but you could just make the computer start in the middle box then subsequently move into the first available box starting at 1.
+
+Then before you know you have achieved the labs aim, but can think of ways to make it better, and have grand plans about training a machine learning algorithm to beat human players!!
+
+Congrats - you've learned how to think. And I genuinely don't mean that condescendingly - thinking like this IS a learned skill and it more important than the language you choose to learn.
+
+---
+
+a large part of it is breaking down the problem into smaller problems
+
+for tic tac toe i see a few key parts:
+
+1 : board structure - how would you model a board in code?
+
+2 : move legality - only allow the move if the tile hasn't been used already
+
+3 : checking for a win - check if any row, column or diagonal contains one type of player input (X or O)
+
+see how each of these problems are individually much smaller than tic tac toe as a whole? once you've got these, you just need to glue them together with a turn counter that alternates the users after they make their moves
+
+try implementing the steps above and see what you come up with
+
+also don't be afraid to look at how other people did things. just imagine if in school you weren't taught how to do algebra and were expected to just know it. the best way to learn is by seeing how similar problems are solved and then applying it to your own
+
+just don't copy code line for line, make sure you actually understand how it works and try to take inspiration from others
