@@ -108,3 +108,23 @@ try implementing the steps above and see what you come up with
 also don't be afraid to look at how other people did things. just imagine if in school you weren't taught how to do algebra and were expected to just know it. the best way to learn is by seeing how similar problems are solved and then applying it to your own
 
 just don't copy code line for line, make sure you actually understand how it works and try to take inspiration from others
+
+When I first learned a programming language, it was from a book. I did all the exercises, all the bonus assignments, totally understood what was going on. Then I finished the book and wanted to start on something of my own
+
+Besides having trouble coming up with an idea, I felt like I would hit a road block almost immediately after trying anything. There was all this stuff I thought I knew how to use, but when I tried to make it work on my own, it just didn't. I remember almost feeling like the computer was making things difficult for me on purpose or something.
+
+I think it's like that for a lot of people. It's a big shift in mental gears to go from following along with a pre-planned tutorial, to just coming up with your own goal, knowing what kinds of commands are available, and how to piece them together to behave a certain way.
+
+That's something that can't be taught, but needs to be learned. So that's where you are right now. Be patient with yourself, and learn from your upcoming discoveries.
+
+Programming is about figuring out how to make this stuff work. It's what all of us are doing, just at different levels. I wouldn't be able to just sit down and write a tic tac toe program from start to finish. It would probably take me a couple of starts, several major structural changes, and lots of googling things for docs or guides.
+
+Yes, people can do these things from scratch. But only after practice. I suspect you might be similar to me, and need to work backwards from a problem. Find a problem you're interested in solving, then look for the tools you need to solve it.
+level 2
+skellious
+DollarStarNova1 point ·
+4 minutes ago
+
+exactly. it's like the pavement artist who draws a caricature in 5 minutes and then the customer says "I'm not paying you $20 for that, it only took you 5 minutes!"
+
+"yes, it only took me 5 minutes to draw that, but it took me 12 YEARS to learn HOW to draw that in 5 minutes."
