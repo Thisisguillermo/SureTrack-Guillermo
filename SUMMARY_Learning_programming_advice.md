@@ -52,3 +52,5 @@ It's more beginner friendly
 
 
 This too: https://www.khanacademy.org/computing/computer-science
+
+If you want to eventually work with nodejs, my advice would be to stick to chrome/chromium because you are likely going to run into information about the internals, which is how V8 operates. And then you can apply that knowledge in the browser as well as with Nodejs
