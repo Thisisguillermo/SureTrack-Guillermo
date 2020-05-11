@@ -133,4 +133,18 @@ DollarStarNova1 point ·
 
 exactly. it's like the pavement artist who draws a caricature in 5 minutes and then the customer says "I'm not paying you $20 for that, it only took you 5 minutes!"
 
-"yes, it only took me 5 minutes to draw that, but it took me 12 YEARS to learn HOW to draw that in 5 minutes."
+"yes, it only took me 5 minutes to draw that, but it took me 12 YEARS to learn HOW to draw that in 5 minutes."\
+
+---
+
+Step one: come up with a simple problem. Start really simple.
+
+Step two: write out every step to solve it, in English.
+
+Step three: turn what you wrote into a bunch of comments. After each step’s comment, write just enough code to do that step.
+
+The thing people forget is if you don’t know what you want to do well enough to say it in English, you’re not going to be able to write the code! Plus this approach helps with the “staring at an empty page” thing.
+
+In addition you probably should get some kind of book aimed at beginners, as well as watching videos. I like the books on invent with python, they are also free which is a nice bonus. The book on inventing games with python would be a good pick. Don’t just read it, type in the programs, that step is essential.
+
+https://www.reddit.com/r/learnprogramming/comments/ghowzp/how_do_i_create_code_as_a_beginner_instead_of/
