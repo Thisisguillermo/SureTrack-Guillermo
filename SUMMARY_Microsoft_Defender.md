@@ -30,3 +30,9 @@ https://docs.microsoft.com/en-us/archive/blogs/secguide/security-baseline-final-
 ConfigureDefender is a small utility for configuring Windows 10 built-in Defender Anti-Virus settings. ConfigureDefender utility is a part of Hard_Configurator project, but it can be used as a standalone application (portable).
 
 https://github.com/AndyFul/ConfigureDefender
+
+# Protect your PC from potentially unwanted applications (Windows 10)
+Windows Security has reputation-based protection that can help protect your PC from potentially unwanted applications. Potentially unwanted app blocking was first introduced in Windows 10 May 2020 update, and is turned off by default.
+
+Turn it on in Microsoft Defender.
+https://support.microsoft.com/en-us/help/4562299/protect-your-pc-from-potentially-unwanted-applications
