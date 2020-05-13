@@ -6,6 +6,12 @@ https://www.wikiwand.com/en/Software_design_pattern
 
 Look for the books.
 
+
+# https://dev.to/jessicajades/20-tips-for-learning-to-code-in-2020-341i
+https://dev.to/jessicajades/20-tips-for-learning-to-code-in-2020-341i
+
+# Experiences
+
 Actually before writing a program, if you have no clue how to start, this is what I do (idk if it works for others but I do it this way)
 First you sketch the thing out. Like visually. What you can see as a user.
 Then you go in one level at a time. What data structure you need? What maths you need to do?
