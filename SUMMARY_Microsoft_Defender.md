@@ -25,7 +25,7 @@ https://jacksonvd.com/levelling-up-windows-defender/
 https://docs.microsoft.com/en-us/archive/blogs/secguide/security-baseline-final-for-windows-10-v1903-and-windows-server-v1903
 
 
-## ConfigureDefender
+## Configure Defender
 
 ConfigureDefender is a small utility for configuring Windows 10 built-in Defender Anti-Virus settings. ConfigureDefender utility is a part of Hard_Configurator project, but it can be used as a standalone application (portable).
 
