@@ -44,6 +44,17 @@ There is no tool that "drills down" deeper on this analysis than strace. By this
 
 ---
 
+## Profiling
+
+In software engineering, profiling ("program profiling", "software profiling") is a form of dynamic program analysis that measures, for example, the space (memory) or time complexity of a program, the usage of particular instructions, or the frequency and duration of function calls. Most commonly, profiling information serves to aid program optimization.
+
+Search for Profiling Linux
+Search for Profiling Windows
+
+https://news.ycombinator.com/item?id=23166098
+https://unix.stackexchange.com/questions/37208/what-are-some-good-profiling-tools-for-linux
+---
+
 ## Websites:
 
 http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html

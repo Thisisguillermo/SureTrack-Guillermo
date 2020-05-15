@@ -154,3 +154,20 @@ The thing people forget is if you don’t know what you want to do well enough t
 In addition you probably should get some kind of book aimed at beginners, as well as watching videos. I like the books on invent with python, they are also free which is a nice bonus. The book on inventing games with python would be a good pick. Don’t just read it, type in the programs, that step is essential.
 
 https://www.reddit.com/r/learnprogramming/comments/ghowzp/how_do_i_create_code_as_a_beginner_instead_of/
+
+## Build software from front-to-back
+
+https://news.ycombinator.com/item?id=23179850
+
+## add CMS to my website.
+
+You need a database. Even a flat file database is still a database.
+
+I think you are not providing enough information here for people to help you. How exactly do you intend to add the CMS content to your site? You can integrate the content into your html on the server, or pull in JSON data from the server and integrate it in the client.
+
+The first option takes less technical knowledge. But it requires you to reformat all of your html files into a template/theme for a specific CMS. That is why people here are suggesting you've done this backwards. You don't add a CMS to your site. You build your site in a CMS.
+
+While adding a CMS to an existing static site is possible, you would do so using that first option I mentioned earlier, a JSON api. This method is called a "headless CMS". And while its perfectly possible, its probably not beginner friendly.
+If I were you I'd look into GravCMS. It uses a flat file database which is very simple. However you will still be diving into the CMS rabbit warren and be exposed to many new concepts. So if you think its as simple as "adding CMS to my site" you will be dissapointed.
+
+https://www.reddit.com/r/webdev/comments/9se7kq/how_to_add_a_cms_to_my_website/
