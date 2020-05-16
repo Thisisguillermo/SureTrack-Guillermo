@@ -6,7 +6,7 @@ vagrant init generic/centos8
 
 vagrant init generic/ubuntu1804
 
-vagrant init generic/centos7
+vagrant init centos/7
 
 vagrant init abi/ubuntu2004
 
