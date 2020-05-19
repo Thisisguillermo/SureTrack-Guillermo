@@ -10,6 +10,9 @@ Look for the books.
 # https://dev.to/jessicajades/20-tips-for-learning-to-code-in-2020-341i
 https://dev.to/jessicajades/20-tips-for-learning-to-code-in-2020-341i
 
+# Checklist
+https://websitelaunchchecklist.com/
+
 # Experiences
 
 Actually before writing a program, if you have no clue how to start, this is what I do (idk if it works for others but I do it this way)
