@@ -15,7 +15,7 @@ Because I'm still an active practitioner, I stay up to date  with the latest cut
 I like to focus on skills and actions over credentials, so there is no certificate for completing this course. Instead I'm going to give you my personal email so you can get in touch with questions anytime.
 
 
-## Lesson one 
+## Lesson 1 
 
 Hi Guillermo,
 
@@ -240,5 +240,25 @@ The configure command will prompt you for the access key, secret, region and def
 To confirm that your access key worked and your CLI is authenticated, run the following command: 'aws ecs describe-vpcs'. You should see output indicating that no VPCs were found. If you see an error there may be a problem with the access key you configured.
 
 You will be using the AWS CLI later in this course, so keep it installed and ready on your computer.
+
+---
+
+## Lesson 5
+
+Today we are getting hands on with Docker and Docker Compose. This lesson will be a little different because it comes with a companion repository which you will need to clone to your computer.
+
+If you do not have Git installed on your computer yet, you can find instructions to install it on Windows, MacOS and Windows here. Once you have installed Git you can run the following command to get the lesson files on your computer:
+
+git clone git@github.com:opscentric/mini-series.git
+
+This will copy the repository files to your computer. You should open up a terminal and navigate to the repository folder and then the docker-and-containers folder inside which contains the Dockerfile and docker-compose.yml file in addition to the test application code.
+
+Now visit the repository README here to follow along with the lesson and get started using Docker. You will need to switch between the README and your local terminal as the lesson progresses.
+
+The repository contains a sample NodeJS application and a Dockerfile for it as well as a Docker Compose file which will create a Postgres Database container and connect the application to it. This is an important concept in the DevOps world - connecting applications together - and it's most easily demonstrated with Docker Compose.
+
+Later in the series you will learn a little bit about Kubernetes and how to connect real world applications together in the cloud. If you are ready to take the next step and make a commitment to your future career, enrollment for the fall semester of our DevOps masterclass is now open.
+
+Visit https://opscentric.io to learn more and reserve your spot. I accept a very limited number of students per semester to ensure a high quality experience and I expect these spots to fill up fast. The course will cover the technologies we've been discussing in this mini-series in much more detail and includes 1 on 1 mentorship from me as you build a high paying career in DevOps.
 
 ---
