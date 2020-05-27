@@ -1,6 +1,8 @@
 # Securing Linux servers.
 
+https://www.cisecurity.org/
 
+The Center for Internet Security, a non-profit whose mission is to promote internet security best-practices, created a step-by-step checklist for securing Docker. Subsequently, the Docker team released a security auditing tool – Docker Bench for Security – to run through this checklist on a Docker host and flag any issues it finds
 
 Turn on SELinux
 Security-Enhanced Linux (SELinux) is an access control security mechanism provided in the kernel.
@@ -33,6 +35,12 @@ Jumphost (https://www.madboa.com/blog/2017/11/02/ssh-proxyjump/) (https://www.te
 
 Greynoise filter https://greynoise.io/about
 Mass scanners (such as Shodan and Censys), search engines, bots, worms, and crawlers generate logs and events omnidirectionally on every IP address in the IPv4 space. GreyNoise gives you the ability to filter this useless noise out.
+
+Docker Bench for Security
+
+https://github.com/docker/docker-bench-security
+
+The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. The tests are all automated, and are inspired by the CIS Docker Community Edition Benchmark v1.1.0.
 
 
 
