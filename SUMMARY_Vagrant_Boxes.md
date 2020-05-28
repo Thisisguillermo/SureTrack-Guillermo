@@ -11,4 +11,3 @@ vagrant init centos/7
 vagrant init abi/ubuntu2004
 
 vagrant init peru/ubuntu-18.04-desktop-amd64 \ --box-version 20200401.01
-

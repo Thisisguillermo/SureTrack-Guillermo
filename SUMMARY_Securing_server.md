@@ -1,10 +1,12 @@
 # Securing Linux servers.
 
-https://www.cisecurity.org/
+## https://www.cisecurity.org/
 
 The Center for Internet Security, a non-profit whose mission is to promote internet security best-practices, created a step-by-step checklist for securing Docker. Subsequently, the Docker team released a security auditing tool – Docker Bench for Security – to run through this checklist on a Docker host and flag any issues it finds
 
-Turn on SELinux
+## https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+
+Turn on SELinux (enabled by default)
 Security-Enhanced Linux (SELinux) is an access control security mechanism provided in the kernel.
 
 No root login
