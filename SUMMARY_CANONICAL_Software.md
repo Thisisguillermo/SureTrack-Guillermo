@@ -34,20 +34,15 @@ Kitchen is used by all Chef-managed community cookbooks and is the integration t
 
 ---
 
-## Creating virtual machines
+## Harden Ubuntu
 
-Now that KVM is installed, let's see how we create our first VM. This can be done using:
+https://cloudsecuritylife.com/cis-ubuntu-script-to-automate-server-hardening/
 
-- virt-manager: a GUI tool
-- virt-install, a python script developed by Red Hat
-- Vagrant
 
 ---
 
-## [Build Automated Machine Images with Packer](https://www.packer.io/)
+Openscap scanner
 
-Packer is an open source tool for creating identical machine images for multiple platforms from a single source configuration. Packer is lightweight, runs on every major operating system, and is highly performant, creating machine images for multiple platforms in parallel. Packer does not replace configuration management like Chef or Puppet. In fact, when building images, Packer is able to use tools like Chef or Puppet to install software onto the image.
+Openscap is a free tool which can help scan against compliance and vulnerabilities
 
-## [Development Environments Made Easy with Vagrant](https://www.vagrantup.com/)
-
-HashiCorp Vagrant provides the same, easy workflow regardless of your role as a developer, operator, or designer. It leverages a declarative configuration file which describes all your software requirements, packages, operating system configuration, users, and more.
+https://www.techrepublic.com/article/how-to-perform-security-audits-on-ubuntu-server-with-openscap/
