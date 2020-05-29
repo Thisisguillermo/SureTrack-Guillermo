@@ -29,3 +29,6 @@ See also https://w3techs.com/technologies/details/os-centos
 All my 2c . Now that you've read all of that -- I use ubuntu server on my homelab and centos ... I find them both great but having worked in an all RHEL/ centos shop I can say I prefer Ubuntu as a workstation install . I just find ubuntu and other Debian based distros more up to date for daily non-server use.
 
 Also mobile. Excuse typos and such.
+
+---
+
