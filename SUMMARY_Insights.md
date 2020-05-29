@@ -32,3 +32,6 @@ Also mobile. Excuse typos and such.
 
 ---
 
+## Is Debian the gold standard for Linux security?
+
+https://www.infoworld.com/article/3118898/is-debian-the-gold-standard-for-linux-security.html
