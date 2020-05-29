@@ -59,4 +59,17 @@ https://www.sitepoint.com/common-pitfalls-avoid-using-html5-application-cache/
 
 https://books.google.nl/books?id=jm3sEVZq8cIC&pg=PA392&lpg=PA392&dq=avoid+directly+serving+html&source=bl&ots=5ykQrUFUNk&sig=ACfU3U0LSfaIOp7ai798TFjA-pOTB2UbGA&hl=en&sa=X&ved=2ahUKEwjDluvP4bHnAhXQKVAKHRw8AYoQ6AEwCHoECGAQAQ#v=onepage&q=avoid%20directly%20serving%20html&f=false
 
-https://perishablepress.com/stupid-htaccess-tricks/#sec1  
+https://perishablepress.com/stupid-htaccess-tricks/#sec1 
+
+## Logging
+
+### grafana + prometheus
+
+https://prometheus.io/
+
+https://grafana.com/
+
+### Zabbbix
+
+https://www.zabbix.com/
+
