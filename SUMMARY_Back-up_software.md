@@ -5,16 +5,8 @@
 ## Systemback (https://launchpad.net/systemback)
 - Linux
 
-<<<<<<< HEAD
 - VMware
 - Hyper-V
-=======
-
-## Veeam Backup & Replication Community Edition (https://www.veeam.com/virtual-machine-backup-solution-free.html)
-- VMware and Hyper-V
-
----
->>>>>>> 2e8e739ddf5a70441a1c04677500aeb0c3c24e2d
 
 ## Veeam Agent for Microsoft Windows FREE (https://www.veeam.com/windows-endpoint-server-backup-free.html)
 
@@ -35,10 +27,9 @@
 - https://blog.bacula.org/whitepapers/CommunityInstallationGuide.pdf
 - https://www.digitalocean.com/community/tutorial_series/how-to-use-bacula-on-centos-7
 
-<<<<<<< HEAD
 ## Systemback (https://launchpad.net/systemback)
 - Linux
-- 
+  
 ## Rsync (https://linux.die.net/man/1/rsync)
 
 - Linux
@@ -54,5 +45,9 @@ https://medium.com/@sharkeyio/the-best-tool-youre-not-using-15ba2d238515
 - Linux
 - Windows
 - MacOS
-=======
->>>>>>> 2e8e739ddf5a70441a1c04677500aeb0c3c24e2d
+
+## Syncthing (https://syncthing.net/)
+
+- Linux
+- Windows
+- MacOS
