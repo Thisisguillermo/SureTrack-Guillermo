@@ -14,4 +14,5 @@ curl -LO https://storage.googleapis.com/minikube/releases/latest/docker-machine-
 sudo install docker-machine-driver-kvm2 /usr/local/bin/
 ```
 ## Starting minikube
+
 minikube start --vm-driver=kvm2
