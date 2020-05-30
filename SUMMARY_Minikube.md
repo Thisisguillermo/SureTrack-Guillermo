@@ -19,3 +19,12 @@ sudo install docker-machine-driver-kvm2 /usr/local/bin/
 ```
 minikube start --vm-driver=kvm2
 ```
+## kubectl
+
+https://kubernetes.io/docs/tasks/tools/install-kubectl/
+
+## Alternative minikube install
+
+```
+sudo snap install minikube
+```
