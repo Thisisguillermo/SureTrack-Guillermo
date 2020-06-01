@@ -28,3 +28,5 @@ Get all the details on every response. View status code, body, headers, cookies,
 ## WGET downloading Websites
 
 https://gist.github.com/stvhwrd/985dedbe1d3329e68d70
+
+wget --limit-rate=200k --no-clobber --convert-links --random-wait -r -p -E -e robots=off -U mozilla https://developer.mozilla.org/en-US/docs/Web/JavaScript
