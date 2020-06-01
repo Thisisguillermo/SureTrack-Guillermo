@@ -24,3 +24,7 @@ Specify URL, payload, headers, and authorization all in one place. Then just hit
 Get all the details on every response. View status code, body, headers, cookies, and more!
 
 Get all the details on every response. View status code, body, headers, cookies, and more!
+
+## WGET downloading Websites
+
+https://gist.github.com/stvhwrd/985dedbe1d3329e68d70
