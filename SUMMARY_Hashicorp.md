@@ -14,25 +14,41 @@ You can package your working VM into a new vagrant box
 
 `vagrant package --output ./new-box-name.box`
 
+`vagrant package`
+
 and then backup this box
 
 After you reinstall your Mackbook, you can then add this box to your local vagrant directory
 
 `vagrant box add new-box-name ./new-box-name.box`
 
+`vagrant box add package.box --name yourname_box`
+
 After that you initiate the vagrantfile through
 
-`vagrant init mynewbox`
+`vagrant init newbox`
+
+`vagrant init yourname_box`
+
+`vagrant up`
 
 ### Vagrant boxes (Libvirt)
 
-vagrant init generic/rhel8
-
 vagrant init generic/ubuntu1804
+
+vagrant init peru/ubuntu-18.04-desktop-amd64 \ --box-version 20200401.01
 
 vagrant init abi/ubuntu2004
 
-vagrant init peru/ubuntu-18.04-desktop-amd64 \ --box-version 20200401.01
+vagrant init generic/rhel8
+
+vagrant init generic/centos8
+
+vagrant init centos/7
+
+### Using git with Vagrant
+
+https://www.youtube.com/watch?v=epk-fkdLaIg
 
 ## Terraform
 
