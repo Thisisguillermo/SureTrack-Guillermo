@@ -46,9 +46,16 @@ vagrant init generic/centos8
 
 vagrant init centos/7
 
-### Using git with Vagrant
+### Vagrant git
 
 https://www.youtube.com/watch?v=epk-fkdLaIg
+
+```ruby
+Vagrant.configure("2") do |config|
+  config.ssh.private_key_path = "~/.ssh/id_rsa"
+  config.ssh.forward_agent = true
+end
+```
 
 ## Terraform
 
