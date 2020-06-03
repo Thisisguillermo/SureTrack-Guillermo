@@ -51,3 +51,21 @@ https://medium.com/@sharkeyio/the-best-tool-youre-not-using-15ba2d238515
 - Linux
 - Windows
 - MacOS
+
+# Data Rescue
+
+## DDRescue
+
+"The basic operation of ddrescue is fully automatic. That is, you don't have to wait for an error, stop the program, restart it from a new position, etc/"
+
+"Ddrescue does not write zeros to the output when it finds bad sectors in the input, and does not truncate the output file if not asked to. So, every time you run it on the same output file, it tries to fill in the gaps without wiping out the data already rescued."
+
+"Automatic merging of backups: If you have two or more damaged copies of a file, cdrom, etc, and run ddrescue on all of them, one at a time, with the same output file, you will probably obtain a complete and error-free file. This is so because the probability of having the same area damaged in all copies is low (if the errors are randomly located). Using the mapfile, only the needed blocks are read from the second and successive copies. "
+
+https://launchpad.net/~hamishmb/+archive/ubuntu/myppa
+
+```
+sudo add-apt-repository ppa:hamishmb/myppa
+sudo apt-get update
+sudo apt install ddrescue-gui
+```
