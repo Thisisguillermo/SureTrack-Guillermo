@@ -57,9 +57,29 @@ Vagrant.configure("2") do |config|
 end
 ```
 
+# Vagrant hostmanager plugins
+
+https://github.com/devopsgroup-io/vagrant-hostmanager
+
+# Vagrant mutate
+
+https://github.com/sciurus/vagrant-mutate
+
+
+```
+Virtualbox to kvm
+Virtualbox to libvirt
+Virtualbox to bhyve
+Libvirt to kvm
+Kvm to libvirt
+```
+
 ## Terraform
 
 Terraform is for setting and managing the (cloud) infrastructure.
 Infrastructure as code.
 
 "Use Infrastructure as Code to provision and manage any cloud, infrastructure, or service"
+
+
+dsfgadssfasd
