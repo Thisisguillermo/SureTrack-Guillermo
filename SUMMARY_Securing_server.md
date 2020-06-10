@@ -19,6 +19,8 @@ Lynis is a security auditing tool for systems based on UNIX like Linux, macOS, B
 Turn on SELinux (enabled by default)
 Security-Enhanced Linux (SELinux) is an access control security mechanism provided in the kernel.
 
+Disable password authentication to the server
+
 No root login
 
 Passwordless login with SSH key ED25519.
