@@ -6,13 +6,17 @@
 
 The Center for Internet Security, a non-profit whose mission is to promote internet security best-practices, created a step-by-step checklist for securing Docker. Subsequently, the Docker team released a security auditing tool – Docker Bench for Security – to run through this checklist on a Docker host and flag any issues it finds
 
-## Lynix
+## Lynis
 
 https://github.com/CISOfy/lynis
 
 Lynis - Security auditing and hardening tool, for UNIX-based systems.
 
 Lynis is a security auditing tool for systems based on UNIX like Linux, macOS, BSD, and others. It performs an in-depth security scan and runs on the system itself. The primary goal is to test security defenses and provide tips for further system hardening. It will also scan for general system information, vulnerable software packages, and possible configuration issues. Lynis was commonly used by system administrators and auditors to assess the security defenses of their systems. Besides the "blue team," nowadays penetration testers also have Lynis in their toolkit.
+
+## cve-check-tool
+
+cve-check-tool, as its name suggests, is a tool for checking known (public) CVEs. The tool will identify potentially vunlnerable software packages within Linux distributions through version matching. Where possible it will also seek to determine (through a distribution implemention) if a vulnerability has been addressed by way of a patch.
 
 ## https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
 
