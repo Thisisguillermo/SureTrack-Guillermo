@@ -2,7 +2,7 @@
 
 ### https://gist.github.com/invinciblycool/cef9547602fb25e2d6aeb7700d0dd4b1
 
-## Installing Minikube KVM2
+## Installing minikube KVM
 
 ```
 
@@ -14,6 +14,8 @@ sudo install minikube_latest_amd64 /usr/local/bin/minikube
 `sudo apt install ./minikube_latest_amd64.deb`
 ```
 
+
+##  installing minikube virtualbox
 ```
 sudo apt-get install -y qemu-kvm libvirt-bin bridge-utils
 sudo apt-get install -y libvirt-clients libvirt-daemon-system
@@ -27,15 +29,6 @@ sudo install docker-machine-driver-kvm2 /usr/local/bin/
 ```
 minikube start --vm-driver=kvm2
 ```
-## kubectl
-
-https://kubernetes.io/docs/tasks/tools/install-kubectl/
-
-## Alternative minikube install
-
-```
-sudo snap install minikube
-```
 
 # Install kubectl
 
@@ -45,4 +38,10 @@ curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key add
 echo "deb https://apt.kubernetes.io/ kubernetes-xenial main" | sudo tee -a /etc/apt/sources.list.d/kubernetes.list
 sudo apt-get update
 sudo apt-get install -y kubectl
+```
+
+## Alternative minikube install
+
+```
+sudo snap install minikube
 ```
