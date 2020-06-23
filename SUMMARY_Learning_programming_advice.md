@@ -6,6 +6,10 @@ https://www.wikiwand.com/en/Software_design_pattern
 
 Look for the books.
 
+# Teach Yourself Computer Science
+
+https://news.ycombinator.com/item?id=23588896
+
 
 # https://dev.to/jessicajades/20-tips-for-learning-to-code-in-2020-341i
 https://dev.to/jessicajades/20-tips-for-learning-to-code-in-2020-341i
