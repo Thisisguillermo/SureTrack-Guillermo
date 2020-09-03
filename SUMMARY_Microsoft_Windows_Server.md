@@ -94,6 +94,14 @@ https://docs.microsoft.com/en-us/archive/blogs/asiatech/how-to-add-web-sites-to-
 # Turning on network protection
 https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/enable-network-protection
 
+<<<<<<< HEAD
+=======
+# Nirsoft
+
+https://www.nirsoft.net/
+
+
+>>>>>>> e381447464ccfd06fe02112a737351951f378bbb
 # Windows VHD
 
 "This brings up an interesting question.
@@ -111,4 +119,8 @@ If somebody is admin they are god.
 # BIOS updates
 
 See, what do I tell y’all? BIOS updates. Update your BIOS. As someone here once told me, “Absolutely no company releases new firmware updates for fun. If it’s public, there’s a very good reason.”
+<<<<<<< HEAD
 I updated Dell BIOS on thousands of systems in my helpdesk role
+=======
+I updated Dell BIOS on thousands of systems in my helpdesk role.
+>>>>>>> e381447464ccfd06fe02112a737351951f378bbb

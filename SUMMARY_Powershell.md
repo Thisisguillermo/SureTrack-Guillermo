@@ -29,8 +29,13 @@ https://serverfault.com/questions/464018/run-elevated-powershell-prompt-from-com
 ## Windows update Powershell
 
 https://www.itechtics.com/run-windows-update-cmd/
+<<<<<<< HEAD
 https://www.techrepublic.com/article/how-to-use-powershell-to-manage-microsoft-updates-on-windows/
 
 `install-module pswindowsupdate`
 
 `Add-WUServiceManager -MicrosoftUpdate`
+=======
+
+`install-module pswindowsupdate`
+>>>>>>> e381447464ccfd06fe02112a737351951f378bbb
