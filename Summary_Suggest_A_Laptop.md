@@ -90,3 +90,50 @@ if you're asking me "why only this model and not this other model"
 - Parts are far more longer available
 - better warranties
 - Some times better processors with Vpro or whatever
+
+## Intel Iris Xe G7 can run GTA V at 1080p 60 FPS on normal settings, is roughly on par with the Radeon RX Vega 8 and GeForce MX250
+
+https://www.notebookcheck.net/Intel-Iris-Xe-G7-can-run-GTA-V-at-1080p-60-FPS-on-normal-settings-is-roughly-on-par-with-the-Radeon-RX-Vega-8-and-GeForce-MX250.494333.0.html
+
+## Deep Learning Super Sampling (NVIDIA)
+
+ Deep Learning Super Sampling (DLSS)
+
+ https://www.nvidia.com/en-us/geforce/news/nvidia-dlss-your-questions-answered/
+
+https://www.nvidia.com/en-us/geforce/news/nvidia-dlss-2-0-a-big-leap-in-ai-rendering/
+
+## DPC Latency
+
+DPC (Deferred Procedure Call) is the operation that Windows uses to assign a priority to processes/drivers that run simultaneously in the same system. If processes that are involved in streaming audio aren't assigned high enough priority then various issues can occur since the audio will not be streamed correctly in 'real-time'. These can include pops/clicks, 'glitchy' audio and device disconnections.
+
+A common cause for DPC latency is out of date device drivers and Windows processes that are not optimised correctly. Many processes/drivers are involved in streaming audio and many other processes/drivers can cause interruptions in the audio stream.
+
+To analyse whether DPC latency could be the cause for any pops, clicks or disconnections you might be experiencing you can run the following software tool: Latency Mon (Windows 7 and later).
+
+https://support.focusrite.com/hc/en-gb/articles/208360865-Troubleshooting-DPC-latency
+
+
+## Suggest a laptop laptops
+
+600 to 900 USD
+
+- Acer Swift 3 with Ryzen Processors
+- Lenovo Ideapad 5 15
+- Hp Envy x360.
+
+1600 - 2000 USD
+
+- Lenovo ThinkPad T14 AMD (Check Lenoovo !perks)
+
+https://www.notebookcheck.net/HP-ProBook-x360-435-G7-laptop-review-AMD-Ryzen-also-shines-in-the-business-convertible.494446.0.html
+
+
+## Laptop info
+
+Dell Precision 5000 series based on Dell XPS line
+https://www.notebookcheck.net/Dell-Precision-5750-Workstation-Review-The-XPS-17-For-Professionals.491576.0.html
+
+Dell Precision 7xxx series
+
+Are better, with better build quality and better qa than 5000 series
