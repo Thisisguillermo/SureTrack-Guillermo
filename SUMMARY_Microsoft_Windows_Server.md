@@ -119,8 +119,38 @@ If somebody is admin they are god.
 # BIOS updates
 
 See, what do I tell y’all? BIOS updates. Update your BIOS. As someone here once told me, “Absolutely no company releases new firmware updates for fun. If it’s public, there’s a very good reason.”
-<<<<<<< HEAD
 I updated Dell BIOS on thousands of systems in my helpdesk role
-=======
-I updated Dell BIOS on thousands of systems in my helpdesk role.
->>>>>>> e381447464ccfd06fe02112a737351951f378bbb
+
+# Windows 7 boot sequence
+
+http://download.microsoft.com/download/3/c/a/3ca9058b-7ee5-4191-99e2-db5917877522/onofftransperf.docx
+
+https://social.technet.microsoft.com/wiki/contents/articles/11341.windows-7-the-boot-process-explained.aspx
+
+https://msfn.org/board/topic/158252-trace-why-windows-8-boots-shutsdown-or-hibernates-slowly/
+
+# Windows 10 boot sequence
+
+Delivering fast boot times in Windows 8
+
+https://docs.microsoft.com/en-us/archive/blogs/b8/delivering-fast-boot-times-in-windows-8
+
+Windows 10 boot sequence
+
+https://docs.microsoft.com/en-us/windows/client-management/img-boot-sequence
+
+Secure the Windows 10 boot process
+
+https://docs.microsoft.com/en-us/windows/security/information-protection/secure-the-windows-10-boot-process
+
+Boot flowchart
+
+https://docs.microsoft.com/en-us/windows/client-management/img-boot-sequence
+
+Delivering a great startup and shutdown experience
+
+https://docs.microsoft.com/en-us/windows-hardware/test/weg/delivering-a-great-startup-and-shutdown-experience
+
+## Windows 10 upgrade errors : Technical information for IT Pros
+
+https://docs.microsoft.com/en-us/windows/deployment/upgrade/resolve-windows-10-upgrade-errors
