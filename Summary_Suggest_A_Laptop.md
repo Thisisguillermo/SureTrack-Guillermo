@@ -137,3 +137,47 @@ https://www.notebookcheck.net/Dell-Precision-5750-Workstation-Review-The-XPS-17-
 Dell Precision 7xxx series
 
 Are better, with better build quality and better qa than 5000 series
+
+Asus G14 issues so far:
+
+1. Bad screen response time, 40ms gray-to-gray average
+2. Shitty ergohinge design that blows hot air onto the LCD, longevity of the screen will be affected
+3. Buggy Asus software, Armoury Crate
+4. 2060 with 65w TDP performs worse than 1660Ti in most cases
+5. Bottlenecking
+6. Power Delivery Circuitry
+7. Plugging in a PD-enabled monitor, dock or charger to the 65w USB-C port while having the 180W adapter plugged in simultaneously will kill the laptop because the laptop will receive over 200w of power, and will die
+8. Keycap font smearing off 
+9. Invisible keycaps on the Silver G14
+10. 1 slot of RAM soldered, meaning you have to stay at 16gb in order to keep dual channel
+11. Dim screen, 270 nits, passable but still a little short of the recommended 300 nit mark
+12. Very loud fan noise, this isn't a huge bummer but something to consider if you work in quiet places like a library
+Asus G14 issues so far:
+
+1. Bad screen response time, 40ms gray-to-gray average
+2. Shitty ergohinge design that blows hot air onto the LCD, longevity of the screen will be affected
+3. Buggy Asus software, Armoury Crate
+4. 2060 with 65w TDP performs worse than 1660Ti in most cases
+5. Bottlenecking
+6. Power Delivery Circuitry
+7. Plugging in a PD-enabled monitor, dock or charger to the 65w USB-C port while having the 180W adapter plugged in simultaneously will kill the laptop because the laptop will receive over 200w of power, and will die
+8. Keycap font smearing off 
+9. Invisible keycaps on the Silver G14
+10. 1 slot of RAM soldered, meaning you have to stay at 16gb in order to keep dual channel
+11. Dim screen, 270 nits, passable but still a little short of the recommended 300 nit mark
+12. Very loud fan noise, this isn't a huge bummer but something to consider if you work in quiet places like a library
+13. Throttling CPUAsus G14 issues so far:
+
+1. Bad screen response time, 40ms gray-to-gray average
+2. Shitty ergohinge design that blows hot air onto the LCD, longevity of the screen will be affected
+3. Buggy Asus software, Armoury Crate
+4. 2060 with 65w TDP performs worse than 1660Ti in most cases
+5. Bottlenecking
+6. Power Delivery Circuitry
+7. Plugging in a PD-enabled monitor, dock or charger to the 65w USB-C port while having the 180W adapter plugged in simultaneously will kill the laptop because the laptop will receive over 200w of power, and will die
+8. Keycap font smearing off 
+9. Invisible keycaps on the Silver G14
+10. 1 slot of RAM soldered, meaning you have to stay at 16gb in order to keep dual channel
+11. Dim screen, 270 nits, passable but still a little short of the recommended 300 nit mark
+12. Very loud fan noise, this isn't a huge bummer but something to consider if you work in quiet places like a library
+13. Throttling CPU
