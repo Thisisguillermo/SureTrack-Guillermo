@@ -27,8 +27,14 @@ Comment from: https://news.ycombinator.com/item?id=27311198#27318266
 
 *"I suggest going through the VIP docs as well as they have some really good advice on securing and speeding up wordpress along with what to avoid. https://docs.wpvip.com/technical-references/ Also just a tip: https://github.com/WordPress/WordPress-Coding-Standards"*
 
+*"The professional approach is a local copy for development, a staging copy on hosting for QA, and then production. Code goes up in deployments; DB and files come down in regular synchronization. If there are multiple devs you might also have an integration copy on hosting. This is not specific to WP; I’ve seen the same workflow work for other DB-backed CMSs like Drupal."*
+
 ----
-#### Wordmove https://github.com/welaika/wordmove
+
+CI/CD Wordpress hosted
+
+https://buddy.works/pricing
+##### Wordmove https://github.com/welaika/wordmove
 
 Wordmove is a command line tool that lets you automatically mirror local WordPress installations and DB data back and forth from your local development machine to one or more remote servers.
 
@@ -55,7 +61,8 @@ Roots helps you build better WordPress sites.
 With Sage, Bedrock and Trellis.
 
 
-#### WordPress Coding Standards for PHP_CodeSniffer https://github.com/WordPress/WordPress-Coding-Standards
+#### WordPress Coding Standards for PHP_CodeSniffer 
+https://github.com/WordPress/WordPress-Coding-Standards
 
 
 This project is a collection of PHP_CodeSniffer rules (sniffs) to validate code developed for WordPress. It ensures code quality and adherence to coding conventions, especially the official WordPress Coding Standards.
@@ -77,3 +84,5 @@ Just an alternative don't know if it's better.
 
 #### WP Sync DB – https://github.com/wp-sync-db/wp-sync-db
 This WordPress plugin that lets you push, pull, and sync database tables between WordPress installations. WP Sync DB eliminates the manual work of migrating a WP database. Copy your db from one WP install to another with a single-click in your dashboard. This is especially handy for syncing a local development database with a live site.
+
+roketco.com/log/the-ultimate-workflow-guide-for-teams-building-wordpress-sites-with-acf-timber-foundation-and-local-machines-with-remote-servers-through-vagrant-and-git/
