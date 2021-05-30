@@ -85,11 +85,19 @@ if you're asking me "why only this model and not this other model"
 
 ## Business Notebooks
 
-- Longer support for BIOS updates
-- Better/Stronger chassis
-- Parts are far more longer available
-- better warranties
-- Some times better processors with Vpro or whatever
+- Longer support for firmware.
+- Better build quality.
+- Parts are far more longer available.
+- better warranties.
+- Some times better processors with Vpro or whatever.
+- Quadro or Radeon Pro
+- Option(s) to choose for a professional display
+- LTE-Advanced mobile module
+- Sometimes Spill resistant keyboard
+- Have driverpacks available, that makes installing driver easier.
+- Repair/Maintenance manual.
+- More options available in the firmware.
+- Better support for dockingstations (Port replicaters are different)
 
 ## Intel Iris Xe G7 can run GTA V at 1080p 60 FPS on normal settings, is roughly on par with the Radeon RX Vega 8 and GeForce MX250
 
