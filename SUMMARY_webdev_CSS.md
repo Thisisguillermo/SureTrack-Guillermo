@@ -16,7 +16,16 @@ vmin and vmax - These units are related to the maximum or minimum value of vh an
 **ex and ch**
 ex and ch - These units, similar to em and rem, rely on the current font and font size. However, unlike em and rem, these units also rely on font-family as they are determined based on measures specific to each font. The ch unit (“character unit”) is defined as the width of the character zero (“0”). The ex unit is defined as “the current x-height of the current font or the half of 1em”. The height-x of a given font is the height of the lowercase “x” of that font. It is often the middle mark of the font.
 
-## CSS "Style guide"
+## CSS "Style guide" https://www.reddit.com/r/css/comments/kzkthl/what_units_do_you_use_px_vw_and_vh_em_rem/
 
 **px** for borders and box shadows; it's for decoration it's not required for readability.
 If a user sets a very large font size for themself, you don't necessarily want this stuff cluttering up the screen.
+
+**rem** rem for font size, don't want the font size of a parent component changing my sizes on one that's inside.
+**rem** also used for padding and margins
+
+**vw/vh** for things that need to change with the size of the screen.
+*A caveat for something that has width: 100vw; height: 100vh. The viewport units DON'T take scrollbars into account. So if you do the above and have a vertical scrollbar because of content overflow, you'll also get a horizontal scrollbar that scrolls the exact width of the vertical scrollbar. In this case, often width: 100%; height: 100vh; might work.*
+
+**ch**
+*ch is a great unit. Studies have shown in the past that it's easiest for humans to read paragraphs that are between 50-70 letters across in width. So I often have a rule of something like p { width: 60ch; } or similar.*
