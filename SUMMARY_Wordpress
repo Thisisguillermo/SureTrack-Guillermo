@@ -2,11 +2,16 @@
 
 ### Website builder (What you see is what you get)
 
-### Elementor
-
 https://elementor.com/
 
+Oxygen Builder
 #### WordPress theme
 
- **Hello Elementor**
+**Hello Elementor**
  *Hello Elementor is a WordPress theme built for the Elementor website builder platform. It uses minimal styling and scripts for maximum speed and design freedom.*
+
+
+#### Notes
+
+You could try using a headless CMS combined with something like Gatsby.
+Should be faster and more customizable than wordpress.
