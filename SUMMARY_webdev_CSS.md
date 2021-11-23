@@ -2,6 +2,8 @@
 
 Common Length units
 
+But before we start it actually depends on what you want, there's no good or bad. (Read the whole document Guillermo)
+
 There are several units used by CSS to express length. The older ones, supported by all browsers, are:
 
 **rem**
@@ -29,3 +31,27 @@ If a user sets a very large font size for themself, you don't necessarily want t
 
 **ch**
 *ch is a great unit. Studies have shown in the past that it's easiest for humans to read paragraphs that are between 50-70 letters across in width. So I often have a rule of something like p { width: 60ch; } or similar.*
+
+
+## Thoughts and comments
+
+https://gist.github.com/basham/2175a16ab7c60ce8e001
+
+https://graphicdesign.stackexchange.com/questions/153807/why-would-i-ever-not-use-percentage-for-sizes
+
+
+
+### Pixel based media queries in Safari desktop and mobile.
+
+*Pixel based media queries are out of the question. Safari doesn’t support them properly (unless you decide to forsake Safari?).*
+
+https://zellwk.com/blog/media-query-units/
+
+
+*For most users (and browsers), a font-size of 100% would default to 16px unless they change the default font-size through their browser settings. It’s rare that anyone would do that though."*
+
+https://zellwk.com/blog/rem-vs-em/
+
+1
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries
+
