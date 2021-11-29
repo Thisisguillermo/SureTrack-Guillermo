@@ -52,6 +52,8 @@ https://zellwk.com/blog/media-query-units/
 
 https://zellwk.com/blog/rem-vs-em/
 
-1
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries
 
+### Devices resolution
+
+https://yesviz.com/devices.php
