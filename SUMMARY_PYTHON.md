@@ -22,3 +22,7 @@ Using pipx to install Poetry is also possible. pipx is used to install Python CL
 ## Black autoformatter (https://black.readthedocs.io/en/stable/getting_started.html)
 
 `pipx install black`
+
+## Autopep8 (https://pypi.org/project/autopep8/)
+
+autopep8 automatically formats Python code to conform to the PEP 8 style guide. It uses the pycodestyle utility to determine what parts of the code needs to be formatted. autopep8 is capable of fixing most of the formatting issues that can be reported by pycodestyle.
