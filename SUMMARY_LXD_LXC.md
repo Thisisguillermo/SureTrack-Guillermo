@@ -12,6 +12,8 @@ sudo snap install lxd
 sudo snap enable lxd
 
 sudo snap start lxd
+
+sudo usermod -a -G lxd $USER
 ```
 
 ### Download images and launch images
@@ -26,6 +28,10 @@ lxc launch images:centos/7/amd64 cenots-db
 lxc launch images:opensuse/15.0/amd64 opensuse-15
 lxc list
 ```
+
+### Use container
+
+`sudo lxc exec ample-pangolin -- bash`
 
 ### Physical image location
 
