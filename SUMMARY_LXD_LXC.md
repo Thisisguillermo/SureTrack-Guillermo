@@ -14,6 +14,22 @@ sudo snap enable lxd
 sudo snap start lxd
 ```
 
+### Download images and launch images
+
+`lxc image list images:`
+
+`lxc image list images: 'alpine'`
+
+```
+lxc launch images:alpine/3.8/amd64 alpine-www
+lxc launch images:centos/7/amd64 cenots-db
+lxc launch images:opensuse/15.0/amd64 opensuse-15
+lxc list
+```
+
+### Physical image location
+
+/var/snap/lxd/common/lxd/disks and /var/snap/lxd/common/lxd/images
 
 ### Migrate
 
