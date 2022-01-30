@@ -18,3 +18,24 @@ One of the best tools I’ve found for pushing back without getting axed is “S
 "No take, only throw."
 
 - companies that want experienced applicants, but refuse to create experienced workers.
+
+
+## Nederlands werktips
+
+Dat is wel even een vraag zeg, er zijn zoveel type bugs ;)
+
+De basis van een bug fixen is begrijpen waar het mis gaat en waarom.
+
+Stel je hebt een null pointer error (oftewel, het verwachte object bestaat niet), dan zul je een vrij duidelijke exception krijgen met het regel nummer waar dat fout gaat. Dus het waar is dan vrij makkelijk gevonden.
+
+De volgende stap is waarom. Bij null pointers zijn het dan typisch 1 van twee dingen. Ten eerste, je code zou met null om moeten kunnen gaan, maar kan dat niet, of je zou op dat moment geen null waarde mogen hebben. Bijvoorbeeld een todo item zou altijd een creator moeten hebben.
+
+Vanaf daar zoek je uit welke van die twee situaties het is. Vaak is dat een stukje domein kennis, maar je kunt bijvoorbeeld ook in het object kijken naar hoe relaties beschreven zijn. Stel dat de waarde dan niet null mag zijn, dan moet je verder zoeken naar de plaatsen waar die waarde gezet wordt en of het op 1 van die locaties een null kan zijn. Bijvoorkeur test je dan een keer dat het inderdaad fout gaat op die manier, omdat je daarmee dan ook kan zien of het weer goed gaat.
+
+Persoonlijk vind ik het altijd belangrijk om even de tijd te nemen om echt te begrijpen waarom het mis gaat en niet aan symptoom bestrijding te doen. Bij die null pointer kun je gewoon een check toevoegen of de waarde niet null is. Daarom komt die specifieke foutmelding niet meer voor. Maar je hebt de eigenlijke bug niet opgelost. Het werkt vaak goed om gewoon waarom te blijven vragen aan jezelf als je denkt dat je een uitleg hebt. Ok, het probleem is dat die waarde null is. Waarom is dat een probleem?
+
+Verder is bugs oplossen ook echt iets waar je vanzelf beter in wordt, je leert herkennen wanneer je dieper moet duiken en wanneer je iets gewoon kan fixen.
+
+Open source projecten zijn leuk, maar vaak te intimiderend voor junioren om echt in te duiken. De bugs die niet gelijk opgepakt worden zijn vaak ook te complex.
+
+Oftewel, vooral doorgaan. Als je iets open source zoekt pak dan vooral een heel klein project wat misschien niet eens meer onderhouden wordt waar mensen wel wat issues voor gemeld hebben. Daar is vaak wel wat laag hangend fruit te vinden. Daarnaast is code lezen ook al heel nuttig. Pak een willekeurige functie in een stuk code en probeer te begrijpen of deze goed werkt.
