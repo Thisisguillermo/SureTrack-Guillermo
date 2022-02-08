@@ -1,5 +1,8 @@
 # Static website(s)
 
+## React
+
+https://create-react-app.dev/docs/deployment/#github-pages
 
 ## Jekyll
 
