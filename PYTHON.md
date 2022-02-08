@@ -15,6 +15,8 @@ Ubuntu: `sudo apt install python3-pip`
 Ubuntu: `apt install python3.9-venv`
 
 
+`source ./bin/activate`
+
 
 ## Black autoformatter (https://black.readthedocs.io/en/stable/getting_started.html)
 
