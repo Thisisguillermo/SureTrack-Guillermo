@@ -42,3 +42,9 @@ Scalene is a high-performance CPU, GPU and memory profiler for Python that does 
 *I guess you misunderstood the term "Virtual Environment". It provides an isolated environment wherein you can download a different version of python packages and run it for your project. Hence, do not put anything inside your virtual environment. Keep it clean.*
 
 The virtual environment manages files which aren't yours. It doesn't care how you manage your own files. Put them wherever makes sense to you, just not anywhere inside the venv directory tree. Common solutions include directly in `myproject`, or in `myproject/src`.
+
+## Beautiful soup and Selenium (https://www.crummy.com/software/BeautifulSoup/bs4/doc/):
+
+*beautiful soup parses html. selenium actually opens and does shit inside your web browser clicking elements etc.*
+
+Playwright is another good contender. https://playwright.dev/
