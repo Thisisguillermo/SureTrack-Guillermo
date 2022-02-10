@@ -67,3 +67,30 @@ Trumps – Helper or utility rules that tweak Objects or Components by adjusting
 
 BEM is a CSS naming convention designed to emphasize relationships among CSS style rules.
 
+
+### Test-driven development (https://www.wikiwand.com/en/Test-driven_development)
+
+Unit testing
+
+https://stackoverflow.com/questions/652292/what-is-unit-testing-and-how-do-you-do-it
+
+#### Untit testing framework
+
+https://www.wikiwand.com/en/List_of_unit_testing_frameworks
+
+
+### React
+
+`ReactJS` is a JavaScript library, supporting both front-end web and being run on a server, for building user interfaces and web applications. It follows the concept of reusable components.
+
+`React Native` is a mobile framework that makes use of the JavaScript engine available on the host, allowing you to build mobile applications for different platforms (iOS, Android, and Windows Mobile) in JavaScript that allows you to use ReactJS to build reusable components and communicate with native components further explanation
+
+Both follow the JSX syntax extension of JavaScript. Which compiles to React.createElement calls under the hood. JSX in-depth
+
+#### Bundles for Webdevelopment
+
+https://webpack.github.io/
+
+First of all, what is a JavaScript bundler? A JavaScript bundler is a tool that puts your code and all its dependencies together in one JavaScript file. There are many of them out there these days, being the most popular ones browserify and webpack.
+
+Why do we need that? Well, the underlying problem is handling dependencies in frontend code. Historically JavaScript hasn’t had a standard for requiring dependencies from your code. There was no `import` or `require` statements. Now we have the new ES2015 import statement, but let’s ignore it for now because it is not widely implemented.
