@@ -92,3 +92,22 @@ https://www.zabbix.com/
 https://www.sans.org/white-papers/232/
 
 https://www.cisecurity.org/controls/cis-controls-self-assessment-tool-cis-csat/`
+
+
+### Traefik (https://traefik.io/)
+
+
+(nginx proxy with auto letscencrypt)
+
+### Logwatch (https://wiki.archlinux.org/title/Logwatch)
+
+Logwatch is a powerful and versatile log parser and analyzer. Logwatch is designed to give a unified report of all activity on a server, which can be delivered through the command line or email. 
+
+### Munin (https://munin-monitoring.org/)
+
+Munin is a networked resource monitoring tool that can help analyze resource trends and "what just happened to kill our performance?" problems. It is designed to be very plug and play. A default installation provides a lot of graphs with almost no work.
+
+### crowdsec (https://crowdsec.net/)
+
+CrowdSec is a free, open-source and collaborative IPS.
+Analyze behaviors, respond to attacks & share signals across the community.
