@@ -94,3 +94,26 @@ https://webpack.github.io/
 First of all, what is a JavaScript bundler? A JavaScript bundler is a tool that puts your code and all its dependencies together in one JavaScript file. There are many of them out there these days, being the most popular ones browserify and webpack.
 
 Why do we need that? Well, the underlying problem is handling dependencies in frontend code. Historically JavaScript hasn’t had a standard for requiring dependencies from your code. There was no `import` or `require` statements. Now we have the new ES2015 import statement, but let’s ignore it for now because it is not widely implemented.
+
+
+#### HTML5 Boilerplate (https://www.npmjs.com/package/html5-boilerplate)
+
+HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.
+
+`npx create-html5-boilerplate new-site`
+
+
+#### What are NPM, Yarn, Babel, and Webpack; and how to properly use them? (https://medium.com/front-end-weekly/what-are-npm-yarn-babel-and-webpack-and-how-to-properly-use-them-d835a758f987)
+
+
+*NPM stands for Node Package Manager. It is what its name describes. It is a package manager for Node based environments. It keeps track of all the packages and their versions and allows the developer to easily update or remove these dependencies. All of these external dependencies are being stored inside a file called called package.json. The initial file can be created easily using CLI npm init (assuming NodeJS is installed in the system). When you install a package using NPM, the packages get downloaded from a dedicated registry. There are lot of features of NPM like publishing. If you like to learn more about NPM, check out the links at the bottom.*
+
+*Every language that we use has some form of package manager, either official or a 3rd party one. PHP has Composer, Python has PIP/Pipenv, Java has Gradle etc.*
+
+*Now, let’s talk briefly about Yarn. It is a package manager that uses NPM registry as its backend. Yarn has two main advantages over NPM. Firstly, Yarn creates a yarn.lock file. This file stores the exact versions of dependencies to the last digit. When installing, Yarn first checks the lock file for the versions, then checks package.json file. NPM has a shrinkwrap command that does exactly this. However, Yarn creates and updates its lock file automatically when dependencies are being installed/updated. Secondly, Yarn is very fast. When installing dependencies for a project, NPM installs packages sequentially. This slows down the performance significantly. Yarn solves this problem by installing these packages in parallel.*
+
+*Webpack is a modular build tool that has two sets of functionality — Loaders and Plugins. Loaders transform the source code of a module. For example, style-loader adds CSS to DOM using style tags. sass-loader compiles SASS files to CSS. babel-loader transpiles JS code given the presets. Plugins are the core of Webpack. They can do things that loaders can’t. For example, there is a plugin called UglifyJS that minifies and uglifies the output of webpack.*
+
+`sudo npm install -g yarn`
+
+`yarn add --dev webpack @babel/core babel-loader @babel/preset-env node-sass css-loader sass-loader style-loader postcss-loader autoprefixer`
