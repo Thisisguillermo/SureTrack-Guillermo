@@ -16,3 +16,8 @@ https://kubernetes.github.io/ingress-nginx/deploy/
 ## Webdeb debugging
 
 https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/
+
+
+## Rename
+
+`rename 's/[^a-zA-Z0-9]/_/g' *`
