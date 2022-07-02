@@ -1,5 +1,7 @@
 # LXD/LXC (https://linuxcontainers.org/lxd/getting-started-cli/)
 
+Helpful: https://bartsimons.me/lxd-cheat-sheet-for-beginners/
+
 ```
 sudo dnf install snapd
 
